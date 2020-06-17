@@ -1,0 +1,91 @@
+﻿@model IEnumerable<Industrial_Tools.Models.DAL.Usuarios>
+@using Industrial_Tools.Repository
+@using Industrial_Tools.Models.DAL
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout_Admin.cshtml";
+}
+@*<div class="panel panel-default">
+    <div class="panel-body">*@
+<div class="row" style="min-height: 500px; height:100%!important;">
+    <div class="col-md-2 tab-actions">
+        <br />
+        <ul class="nav nav-pills nav-stacked">
+            <li class="active">
+                <a href="#mensajes">Mensajes</a>
+            </li>
+            @*<li>
+                    <a href="#mensajes">Compras</a>
+                </li>
+                <li>
+                    <a href="#mensajes">Ventas</a>
+                </li>
+                <li>
+                    <a href="#mensajes">Productos</a>
+                </li>
+                <li>
+                    <a href="#mensajes">Proveedores</a>
+                </li>*@
+        </ul>
+        <br />
+    </div>
+    <div class="col-md-10">
+        <div class="tab-content">
+            <div id="mensajes" class="tab-pane fade in active">
+                <div class="row">
+                    <div class="col-md-4 tab-usrs">
+                        <div class="header-chats">
+                            <h2>Chats</h2>
+                        </div>
+                        <div class="chats">
+                            @foreach (var item in Model)
+                            {
+                                string nombre = item.nombre + " " + item.apellido_paterno + " " + item.apellido_materno;
+                                List<Chat> mensajes = new GenericUnitToWork().GetRepositoryInstance<Chat>().GetListParameter(i => i.id_usuario == item.id).ToList();
+                                int noReading = 0;
+                                foreach (var i in mensajes)
+                                {
+                                    if (i.status == 1 && i.tipo_mensaje == 0)
+                                    {
+                                        noReading++;
+                                    }
+                                }
+                                <div class="usr-chat" data-id="@item.id" data-noreading="@noReading">
+                                    <div class="usr-name">
+                                        <b>@nombre</b>
+                                    </div>
+                                    <div class="msj-no-read">@noReading</div>
+                                </div>
+                            }
+                        </div>
+                    </div>
+                    <div class="col-md-8">
+                        <div class="header-chats">
+                            <h2>Mensajes</h2>
+                        </div>
+                        <div class="mensajes" id="msjsUser">
+                            <div id="spinner">
+                                <i class="fa fa-spinner fa-5x fa-spin"></i>
+                            </div>
+                            <div id="msgs"></div>
+                        </div>
+                        <div class="actions-chat">
+                            <div class="row" style="display: flex; align-items: center;">
+                                <div class="col-md-10">
+                                    <textarea name="msgChatAdmin" id="msgChatAdmin" class="form-control" placeholder="Escribenos un mensaje"></textarea>
+                                </div>
+                                <div class="col-md-2">
+                                    <button class="btn btn-primary btn-block" id="btnSendAdmin">
+                                        <i class="fa fa-send"></i> Enviar
+                                    </button>
+                                </div>
+                            </div>   
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+@*</div>
+    </div>*@

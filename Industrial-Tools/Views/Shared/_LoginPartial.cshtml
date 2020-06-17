@@ -1,0 +1,114 @@
+﻿@using Microsoft.AspNet.Identity
+@using Industrial_Tools.Models.DAL
+@using Industrial_Tools.Repository
+@if (Request.IsAuthenticated)
+{
+    using (Html.BeginForm("LogOff", "Account", FormMethod.Post, new { id = "logoutForm", @class = "navbar-right" }))
+    {
+        @Html.AntiForgeryToken()
+        Usuarios usr = new Usuarios();
+        if (Session["usr"] != null)
+        {
+            usr = (Usuarios)Session["usr"];
+
+        }
+        else
+        {
+            string correo = User.Identity.GetUserName();
+            Usuarios u = new GenericUnitToWork().GetRepositoryInstance<Usuarios>().GetFirstOrDefaultByParameter(i => i.correo == correo);
+            usr = new Usuarios()
+            {
+                nombre = u.nombre,
+                apellido_paterno = u.apellido_paterno,
+                apellido_materno = u.apellido_materno,
+                correo = u.correo,
+                id = u.id,
+                username = u.username
+            };
+            Session["usr"] = usr;
+        }
+
+        <ul class="nav navbar-nav navbar-right">
+            <li>
+                <a class="dropdown-toggle" data-toggle="dropdown">Bienvenido(a) @usr.nombre <span class="caret"></span></a>
+                <ul class="dropdown-menu">
+                    <li>
+                        <a href="/Usuarios/Perfil">
+                            <i class='fa fa-user'></i> Perfil
+                        </a>
+                        @*@Html.ActionLink("<i class='fa fa-sign-out'></i> Perfil", "Perfil", "Usuarios")*@
+                    </li>
+                    <li class="divider"></li>
+                    <li>
+                        <a href="javascript:document.getElementById('logoutForm').submit()">
+                            <i class="fa fa-sign-out"></i> Cerrar sesión
+                        </a>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+    }
+    int id = ((Usuarios)Session["usr"]).id;
+    List<Chat> mensajes = new GenericUnitToWork().GetRepositoryInstance<Chat>().GetListParameter(i => i.id_usuario == id).ToList();
+    int noReading = 0;
+    foreach (var item in mensajes)
+    {
+        if (item.status == 1 && item.tipo_mensaje == 1)
+        {
+            noReading++;
+        }
+    }
+
+    mensajes.OrderBy(i => i.id);
+
+    <div class="div-chat">
+        <div class="chat-header" data-noreading="@noReading">
+            <div class="chat-dot-numb">@noReading</div>
+            <div class="content-chat">
+                <i class="fa fa-comment"></i> Chat
+            </div>
+        </div>
+        <div class="body-chat">
+            <div class="messages" id="mensajes">
+                @foreach (var item in mensajes)
+                {
+                    if (item.tipo_mensaje == 1)
+                    {
+                        <div class="msg-resp">
+                            <p>@item.mensaje</p>
+                        </div>
+                    }
+                    if (item.tipo_mensaje == 0)
+                    {
+                        <div class="msg-env">
+                            <p>@item.mensaje</p>
+                        </div>
+                    }
+                }
+            </div>
+            <div class="action-chat">
+                <textarea name="msgChat" id="msgChat" class="form-control" placeholder="Escribenos un mensaje"></textarea>
+                <button class="btn btn-default btn-sm" id="btnSend">
+                    <i class="fa fa-send"></i>
+                </button>
+            </div>
+        </div>
+    </div>
+}
+else
+{
+    <ul class="nav navbar-nav navbar-right">
+        <li>@Html.ActionLink("Registrarse", "Register", "Usuarios", routeValues: null, htmlAttributes: new { id = "registerLink" })</li>
+        <li>@Html.ActionLink("Iniciar sesión", "Login", "Account", routeValues: null, htmlAttributes: new { id = "loginLink" })</li>
+    </ul>
+}
+
+@*<div class="div-whats-chat">
+    <ul>
+        <li>
+            <a href="https://api.whatsapp.com/send?phone=527224657902" target="_blank" class="whatsapp">
+                <i class="fa fa-whatsapp fa-1-5x"></i> <b>Chat</b>
+            </a>
+        </li>
+    </ul>
+</div>*@

@@ -1,0 +1,79 @@
+﻿@using Industrial_Tools.Models
+@model LoginViewModel
+@{
+    ViewBag.Title = "Iniciar sesión";
+}
+
+<div class="breadcrumbs">
+    <ul>
+        <li>@Html.ActionLink("Inicio", "Index", "Home")</li>
+        <li>Iniciar Sesión</li>
+    </ul>
+</div>
+
+<br />
+<div class="row">
+    <div class="col-md-6 col-md-offset-3"  id="formLogin">
+        <h2>Inicia Sesión</h2>
+        <section id="loginForm">
+            @using (Html.BeginForm("Login", "Account", new { ReturnUrl = ViewBag.ReturnUrl }, FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+            {
+                @Html.AntiForgeryToken()
+                <div class="block">
+                    <div class="block-inside">
+                        <div class="row">
+                            <div class="col-md-8 col-md-offset-2">
+                                <div class="form-group">
+                                    @Html.LabelFor(m => m.Email, new { @class = "control-label" })
+                                    <div class="field">
+                                        @Html.TextBoxFor(m => m.Email, new { @class = "text form-control" })
+                                        @Html.ValidationMessageFor(m => m.Email, "", new { @class = "text-danger" })
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-8 col-md-offset-2">
+                                <div class="form-group">
+                                    @Html.LabelFor(m => m.Password, new { @class = "control-label" })
+                                    <div class="field">
+                                        @Html.PasswordFor(m => m.Password, new { @class = "text form-control" })
+                                        @Html.ValidationMessageFor(m => m.Password, "", new { @class = "text-danger" })
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-10 col-md-offset-1">
+                        <div class="alert-danger">
+                            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-4 col-md-offset-4">
+                        <input type="submit" value="Iniciar Sesión" class="button btn btn-block btn-success" id="submit_login">
+                    </div>
+                </div>
+                <br />
+                <div class="block text-center">
+                    <h4>Nuevo Usuario</h4>
+                    <div class="block-inside">                        
+                        <div class="row">
+                            <div class="col-md-4 col-md-offset-4">
+                                <a href="/Usuarios/Register" class="btn btn-block btn-success">CREA TU CUENTA</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+        </section>
+    </div>
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

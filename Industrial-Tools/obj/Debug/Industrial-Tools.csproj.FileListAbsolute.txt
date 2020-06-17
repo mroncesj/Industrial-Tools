@@ -1,0 +1,476 @@
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\Industrial-Tools.dll.config
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\Industrial-Tools.dll
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\Industrial-Tools.pdb
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\roslyn\csc.exe
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\roslyn\csc.exe.config
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\roslyn\csc.rsp
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\roslyn\csi.exe
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\roslyn\csi.exe.config
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\roslyn\csi.rsp
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\roslyn\System.AppContext.dll
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\roslyn\System.Console.dll
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\roslyn\System.IO.Compression.dll
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\roslyn\System.Security.Claims.dll
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\roslyn\System.ValueTuple.dll
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\roslyn\vbc.exe
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\roslyn\vbc.exe.config
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\roslyn\vbc.rsp
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\roslyn\VBCSCompiler.exe
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\Antlr3.Runtime.dll
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\EntityFramework.dll
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\EntityFramework.SqlServer.dll
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\Microsoft.Owin.dll
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\Microsoft.Owin.Security.dll
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\Newtonsoft.Json.dll
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\Owin.dll
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\System.Web.Helpers.dll
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\System.Web.Mvc.dll
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\System.Web.Optimization.dll
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\System.Web.Razor.dll
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\System.Web.WebPages.dll
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\System.Web.WebPages.Razor.dll
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\WebGrease.dll
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\System.Web.Helpers.xml
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\System.Web.Mvc.xml
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\System.Web.Optimization.xml
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\System.Web.Razor.xml
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\System.Web.WebPages.xml
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\System.Web.WebPages.Razor.xml
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\Newtonsoft.Json.xml
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\Antlr3.Runtime.pdb
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\EntityFramework.xml
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\EntityFramework.SqlServer.xml
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\Microsoft.Owin.xml
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\Microsoft.Owin.Security.xml
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\es\System.Web.Razor.resources.dll
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\es\EntityFramework.resources.dll
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\obj\Debug\Industrial-Tools.csprojAssemblyReference.cache
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\obj\Debug\Industrial-Tools.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\obj\Debug\Industrial-Tools.csproj.CopyComplete
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\obj\Debug\Industrial-Tools.dll
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\obj\Debug\Industrial-Tools.pdb
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\PayPal.dll
+C:\Users\Alejandro\source\repos\Industrial-Tools\Industrial-Tools\bin\PayPal.xml
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\Industrial-Tools.dll.config
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\Industrial-Tools.dll
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\Industrial-Tools.pdb
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\csc.exe
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\csc.exe.config
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\csc.rsp
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\csi.exe
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\csi.exe.config
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\csi.rsp
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\System.AppContext.dll
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\System.Console.dll
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\System.IO.Compression.dll
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\System.IO.Pipes.dll
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\System.Security.Claims.dll
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\System.ValueTuple.dll
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\System.Xml.XPath.dll
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\vbc.exe
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\vbc.exe.config
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\vbc.rsp
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\VBCSCompiler.exe
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\Antlr3.Runtime.dll
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\EntityFramework.dll
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\EntityFramework.SqlServer.dll
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\Microsoft.Owin.dll
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\Microsoft.Owin.Security.dll
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\Newtonsoft.Json.dll
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\Owin.dll
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\PayPal.dll
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\System.Web.Helpers.dll
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\System.Web.Mvc.dll
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\System.Web.Optimization.dll
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\System.Web.Razor.dll
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\System.Web.WebPages.Deployment.dll
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\System.Web.WebPages.dll
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\System.Web.WebPages.Razor.dll
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\WebGrease.dll
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\PayPal.xml
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\System.Web.Helpers.xml
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\System.Web.Mvc.xml
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\System.Web.Optimization.xml
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\System.Web.Razor.xml
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\System.Web.WebPages.xml
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\System.Web.WebPages.Deployment.xml
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\System.Web.WebPages.Razor.xml
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\Newtonsoft.Json.xml
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\Antlr3.Runtime.pdb
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\EntityFramework.xml
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\EntityFramework.SqlServer.xml
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\Microsoft.Owin.xml
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\Microsoft.Owin.Security.xml
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\es\System.Web.Helpers.resources.dll
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\es\System.Web.Mvc.resources.dll
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\es\System.Web.Optimization.resources.dll
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\es\System.Web.Razor.resources.dll
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\es\System.Web.WebPages.resources.dll
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\es\EntityFramework.resources.dll
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\obj\Debug\Industrial-Tools.csprojAssemblyReference.cache
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\obj\Debug\Industrial-Tools.csproj.CoreCompileInputs.cache
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\obj\Debug\Industrial-Tools.csproj.CopyComplete
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\obj\Debug\Industrial-Tools.dll
+C:\Users\lupit\Documents\Escuela\Decimo Semestre\DES APP E-COMMERCE\IndTools-Ecommerce-master\Industrial-Tools\obj\Debug\Industrial-Tools.pdb
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\Industrial-Tools.dll.config
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\Industrial-Tools.dll
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\Industrial-Tools.pdb
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\csc.exe
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\csc.exe.config
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\csc.rsp
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\csi.exe
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\csi.exe.config
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\csi.rsp
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\System.AppContext.dll
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\System.Console.dll
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\System.IO.Compression.dll
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\System.Security.Claims.dll
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\System.ValueTuple.dll
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\vbc.exe
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\vbc.exe.config
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\vbc.rsp
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\VBCSCompiler.exe
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\Antlr3.Runtime.dll
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\EntityFramework.dll
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\EntityFramework.SqlServer.dll
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\Microsoft.Owin.dll
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\Microsoft.Owin.Security.dll
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\Newtonsoft.Json.dll
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\Owin.dll
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\PayPal.dll
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\System.Web.Helpers.dll
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\System.Web.Mvc.dll
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\System.Web.Optimization.dll
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\System.Web.Razor.dll
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\System.Web.WebPages.dll
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\System.Web.WebPages.Razor.dll
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\WebGrease.dll
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\PayPal.xml
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\System.Web.Helpers.xml
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\System.Web.Mvc.xml
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\System.Web.Optimization.xml
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\System.Web.Razor.xml
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\System.Web.WebPages.xml
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\System.Web.WebPages.Razor.xml
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\Newtonsoft.Json.xml
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\Antlr3.Runtime.pdb
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\EntityFramework.xml
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\EntityFramework.SqlServer.xml
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\Microsoft.Owin.xml
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\Microsoft.Owin.Security.xml
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\es\System.Web.Razor.resources.dll
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\es\EntityFramework.resources.dll
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\obj\Debug\Industrial-Tools.csprojAssemblyReference.cache
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\obj\Debug\Industrial-Tools.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\obj\Debug\Industrial-Tools.csproj.CopyComplete
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\obj\Debug\Industrial-Tools.dll
+C:\Users\Alejandro\Desktop\IndTools-Ecommerce-master\Industrial-Tools\obj\Debug\Industrial-Tools.pdb
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\Industrial-Tools.dll.config
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\Industrial-Tools.dll
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\Industrial-Tools.pdb
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\roslyn\csc.exe
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\roslyn\csc.exe.config
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\roslyn\csc.rsp
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\roslyn\csi.exe
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\roslyn\csi.exe.config
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\roslyn\csi.rsp
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\roslyn\System.AppContext.dll
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\roslyn\System.Console.dll
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\roslyn\System.IO.Compression.dll
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\roslyn\System.Security.Claims.dll
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\roslyn\System.ValueTuple.dll
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\roslyn\vbc.exe
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\roslyn\vbc.exe.config
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\roslyn\vbc.rsp
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\roslyn\VBCSCompiler.exe
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\Antlr3.Runtime.dll
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\EntityFramework.dll
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\EntityFramework.SqlServer.dll
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\Microsoft.Owin.dll
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\Microsoft.Owin.Security.dll
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\Newtonsoft.Json.dll
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\Owin.dll
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\PayPal.dll
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\System.Web.Helpers.dll
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\System.Web.Mvc.dll
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\System.Web.Optimization.dll
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\System.Web.Razor.dll
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\System.Web.WebPages.dll
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\System.Web.WebPages.Razor.dll
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\WebGrease.dll
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\PayPal.xml
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\System.Web.Helpers.xml
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\System.Web.Mvc.xml
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\System.Web.Optimization.xml
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\System.Web.Razor.xml
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\System.Web.WebPages.xml
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\System.Web.WebPages.Razor.xml
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\Newtonsoft.Json.xml
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\Antlr3.Runtime.pdb
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\EntityFramework.xml
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\EntityFramework.SqlServer.xml
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\Microsoft.Owin.xml
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\Microsoft.Owin.Security.xml
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\es\System.Web.Razor.resources.dll
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\es\EntityFramework.resources.dll
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\obj\Debug\Industrial-Tools.csprojAssemblyReference.cache
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\obj\Debug\Industrial-Tools.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\obj\Debug\Industrial-Tools.csproj.CopyComplete
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\obj\Debug\Industrial-Tools.dll
+C:\Users\Alejandro\Desktop\Industrial-Tools\Industrial-Tools\obj\Debug\Industrial-Tools.pdb

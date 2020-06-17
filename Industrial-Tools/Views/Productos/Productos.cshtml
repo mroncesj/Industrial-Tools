@@ -1,0 +1,137 @@
+﻿@model IEnumerable<Industrial_Tools.Models.DAL.Productos>
+@{
+    ViewBag.Title = "Productos";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    List<List<Industrial_Tools.Models.DAL.Productos>> allProducts = new List<List<Industrial_Tools.Models.DAL.Productos>>(2);
+    for (int i = 0; i < 2; i++)
+    {
+        allProducts.Add(new List<Industrial_Tools.Models.DAL.Productos>());
+    }
+
+    for (int i = 0; i < 4; i++)
+    {
+        allProducts[1].Add(Model.ElementAt(Model.Count() - 1 - i));
+    }
+
+    var x = 0;
+
+    foreach (var item in Model)
+    {
+        if (item.calificacion >= 4)
+        {
+            allProducts[0].Add(item);
+            x++;
+        }
+        if (x > 3)
+        {
+            break;
+        }
+    }
+}
+
+<div class="breadcrumbs" id="breadcrumbs">
+    <ul>
+        <li>@Html.ActionLink("Inicio", "Index", "Home") </li>
+        <li><b>Productos</b></li>
+    </ul>
+</div>
+<br />
+<div id="formLogin">
+    <div class="row">
+        <div class="col-md-offset-8">
+            <div class="form-group">
+                @Html.Label("Categoría: ")
+                @Html.DropDownList("categorias",
+                         new SelectList(new List<Object> {
+                                        new{value = 0, text= "Seleccione una categoría"},
+                                        new { value = 1, text= "Carpintería"},
+                                        new { value = 2, text= "Hidraúlicas"},
+                                        new { value = 3, text= "Jardinería"},
+                                        new { value = 4, text= "Uso General"},
+                                        new { value = 5, text= "Mecánica"},
+                                        new { value = 6, text= "Todos los productos"}
+                         },
+                         "value",
+                         "text"),
+                         new { @class = "form-control", onchange = "window.location='/Productos/ProductosCategoria?id='+ this.value" })
+            </div>
+        </div>
+    </div>
+    <h2>Productos más comprados</h2>
+    <div class="row">
+        @foreach (var item in allProducts[0])
+        {
+            <div class="col-md-3 product-card">
+                <div class="product-block">
+                    <div class="product-image">
+                        <img src="~/images/productos/@item.img" />
+                    </div>
+                    <div class="caption">
+                        <div class="row">
+                            <div class="col-md-7 text-center">
+                                <p style="font-size: 1.5rem;">
+                                    @item.nombre
+                                </p>
+                            </div>
+                            <div class="col-md-5">
+                                <div class="list-price text-center">
+                                    <span class="product-block-list">$ @item.precio_venta</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-6 col-md-offset-3">
+                                <div class="form-group" style="margin-top: 10px;">
+                                    <div style="text-align:right; " class="actions">
+                                        <input type='button' class="button btn btn-success desc-pro-btn" value='Descripción' onclick='window.location = "@Url.Action("InfoProducto", "Productos", new {id = item.id})";' />
+                                        @*<input type='button' class="button btn-block btn btn-success desc-pro-btn" value='Descripción' />*@
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+    <br />
+    <h2>Últimos productos</h2>
+    <div class="row">
+        @foreach (var item in allProducts[1])
+        {
+            <div class="col-md-3 product-card">
+                <div class="product-block">
+                    <div class="product-image">
+                        <img src="~/images/productos/@item.img" />
+                    </div>
+                    <div class="caption">
+                        <div class="row">
+                            <div class="col-md-7 text-center">
+                                <p style="font-size: 1.5rem;">
+                                    @item.nombre
+                                </p>
+                            </div>
+                            <div class="col-md-5">
+                                <div class="list-price text-center">
+                                    <span class="product-block-list">$ @item.precio_venta</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-6 col-md-offset-3">
+                                <div class="form-group" style="margin-top: 10px;">
+                                    <div style="text-align:right; " class="actions">
+                                        <input type='button' class="button btn btn-success desc-pro-btn" value='Descripción' onclick='window.location = "@Url.Action("InfoProducto", "Productos", new {id = item.id})";' />
+                                        @*<input type='button' class="button btn-block btn btn-success desc-pro-btn" value='Descripción' />*@
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
+
+

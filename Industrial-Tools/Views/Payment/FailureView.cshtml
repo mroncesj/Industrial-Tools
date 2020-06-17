@@ -1,0 +1,39 @@
+﻿
+@{
+    ViewBag.Title = "FailureView";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="breadcrumbs">
+    <ul>
+        <li>@Html.ActionLink("Carrito de Compras", "Carrito", "Carrito")</li>
+        <li>Error en la compra</li>
+    </ul>
+</div>
+<br />
+<div id="formLogin">
+    <h2>Error en la compra</h2>
+    <br />
+    <div class="row" style="text-align: left;">
+        <div class="col-md-6 col-md-offset-3 status-pago">
+            <div class="block text-center">
+                <div class="block-inside">
+                    <p>¡La compra no ha concluido correctamente!.</p>
+                    <p>Por favor, solicite ayuda de un administrador</p>
+                    <br />
+                    <p><strong>Codigo de Error:</strong> @ViewBag.ErrorMessage</p>
+                    <br />
+                    <div class="row">
+                        <div class="col-md-4 col-md-offset-4">
+                            <a href="/Home/Contact" class="btn btn-block btn-success" style="font-size:1.5rem;" title="Historial de Compras">
+                                Contacto
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <br />
+</div>
+

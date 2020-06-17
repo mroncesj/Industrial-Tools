@@ -1,0 +1,60 @@
+﻿@model IEnumerable<Industrial_Tools.Models.DAL.Ventas>
+@{
+    ViewBag.Title = "HistorialCompras";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<br />
+<div id="formLogin">
+    <h2>
+        Historial de compras
+    </h2>
+    <br />
+    <table class="table" id="compras-table">
+        <thead>
+            <tr>
+                <th style="text-align: center !important;">Fecha</th>
+                <th style="text-align: center !important;">Subtotal</th>
+                <th style="text-align: center !important;">Total</th>
+                <th style="text-align: center !important;">Status</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (Model != null && Model.Count() > 0)
+            {
+                foreach (Industrial_Tools.Models.DAL.Ventas item in Model)
+                {
+                    string fecha = item.fecha.ToString("dddd, dd MMMM yyyy").ToUpper();
+                    string status = "En proceso";
+                    switch (item.stat)
+                    {
+                        case 1:
+                            status = "Entregada";
+                            break;
+                        case 2:
+                            status = "En camino";
+                            break;
+                    }
+                    <tr>
+                        <td>@fecha</td>
+                        <td>$ @item.sub_total</td>
+                        <td>$ @item.total</td>
+                        <td>@status</td>
+                        <td style="color: red !important;">
+                            <a href="@Url.Action("DetalleCompra", "Compras", new { id = item.id })" class="btn btn-sm btn-info"><i class="fa info fa-eye"></i> Detalles</a>
+                        </td>
+                    </tr>
+                }
+            }
+            else
+            {
+                <tr>
+                    <td colspan="6" align="center">
+                        No se han realizado compras
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <br />
+</div>

@@ -1,0 +1,38 @@
+﻿@using Microsoft.AspNet.Identity
+@using Industrial_Tools.Models.DAL
+@using Industrial_Tools.Repository
+@if (Request.IsAuthenticated)
+{
+    using (Html.BeginForm("LogOff", "Admin", FormMethod.Post, new { id = "logoutForm"}))
+    {
+        @Html.AntiForgeryToken()
+        Usuarios usr = new Usuarios();
+        if (Session["usr"] != null)
+        {
+            usr = (Usuarios)Session["usr"];
+
+        }
+        else
+        {
+            string correo = User.Identity.GetUserName();
+            Usuarios u = new GenericUnitToWork().GetRepositoryInstance<Usuarios>().GetFirstOrDefaultByParameter(i => i.correo == correo);
+            usr = new Usuarios()
+            {
+                nombre = u.nombre,
+                apellido_paterno = u.apellido_paterno,
+                apellido_materno = u.apellido_materno,
+                correo = u.correo,
+                id = u.id,
+                username = u.username
+            };
+            Session["usr"] = usr;
+        }
+        <a href="javascript:document.getElementById('logoutForm').submit()" class="btn btn-default">
+            <i class="fa fa-sign-out"></i> Cerrar sesión
+        </a>
+    }
+}
+else
+{
+    <div></div>
+}

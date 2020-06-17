@@ -1,0 +1,139 @@
+﻿@model Industrial_Tools.Models.UsuarioModelEdit
+@{
+    ViewBag.Title = "Perfil";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="breadcrumbs">
+    <ul>
+        <li>@Html.ActionLink("Inicio", "Index", "Home")</li>
+        <li>Datos de cliente</li>
+    </ul>
+</div>
+<br />
+<div id="formLogin">
+    <h2>Datos Personales</h2>
+    <div class="row" style="text-align: left;">
+        <div class="col-md-10 col-md-offset-1">
+            @using (Html.BeginForm("EditarPerfil", "Usuarios", FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+            {
+                <div class="block">
+                    @*<h4 class="title">Contacto</h4>*@
+                    <div class="block-inside" style="padding-left: 30px;">
+						<div id="customer_additional_fields">
+							<div class="row">
+								<div class="hidden">
+									@Html.HiddenFor(model => model.id, new { htmlAttributes = new { @class = "form-control" } })
+								</div>
+								<div class="col-md-6" style="padding-right: 30px;">
+									<div class="form-group">
+										<div id="contact_name" class="field text-field">
+											@Html.LabelFor(m => m.nombre, new { @class = "control-label" })
+											@Html.TextBoxFor(m => m.nombre, new { @class = "text form-control" })
+											@Html.ValidationMessageFor(m => m.nombre, "", new { @class = "text-danger" })
+										</div>
+									</div>
+								</div>
+								<div class="col-md-6" style="padding-right: 30px;">
+									<div class="form-group">
+										<div id="contacts_email" class="field text-field">
+											@Html.LabelFor(m => m.correo, new { @class = "control-label" })
+											@Html.TextBoxFor(m => m.correo, new { @class = "text form-control", @readonly = "true" })
+											@Html.ValidationMessageFor(m => m.correo, "", new { @class = "text-danger" })
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="row">
+								<div class="col-md-6" style="padding-right: 30px;">
+									<div class="form-group">
+										<div id="contact_name" class="field text-field">
+											@Html.LabelFor(m => m.apellido_paterno, new { @class = "control-label" })
+											@Html.TextBoxFor(m => m.apellido_paterno, new { @class = "text form-control" })
+											@Html.ValidationMessageFor(m => m.apellido_paterno, "", new { @class = "text-danger" })
+										</div>
+									</div>
+								</div>
+								<div class="col-md-6" style="padding-right: 30px;">
+									<div class="form-group">
+										<div id="contacts_phone" class="field text-field">
+											@Html.LabelFor(m => m.telefono, new { @class = "control-label" })
+											@Html.TextBoxFor(m => m.telefono, new { @class = "text form-control" })
+											@Html.ValidationMessageFor(m => m.telefono, "", new { @class = "text-danger" })
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="row">
+								<div class="col-md-6" style="padding-right: 30px;">
+									<div class="form-group">
+										<div id="contact_apm" class="field text-field">
+											@Html.LabelFor(m => m.apellido_materno, new { @class = "control-label" })
+											@Html.TextBoxFor(m => m.apellido_materno, new { @class = "text form-control" })
+											@Html.ValidationMessageFor(m => m.apellido_paterno, "", new { @class = "text-danger" })
+										</div>
+									</div>
+								</div>
+								<div class="col-md-6" style="padding-right: 30px;">
+									<div class="form-group">
+										<div id="contacts_birthday" class="field text-field">
+											@Html.LabelFor(m => m.fecha_nacimiento, new { @class = "control-label" })
+											@Html.TextBoxFor(m => m.fecha_nacimiento, "{0:yyyy-MM-dd}", new { @class = "form-control text", @type = "date" })
+											@Html.ValidationMessageFor(m => m.fecha_nacimiento, "", new { @class = "text-danger" })
+										</div>
+									</div>
+								</div>
+							</div>
+							</div>
+							<div id="customer_details_password">
+								<div class="row">
+									<div class="col-md-4" style="padding-right: 30px;">
+										<div class="form-group">
+											<div id="details_username" class="field text-field">
+												@Html.LabelFor(m => m.username, new { @class = "control-label" })
+												@Html.TextBoxFor(m => m.username, new { @class = "text form-control" })
+												@Html.ValidationMessageFor(m => m.username, "", new { @class = "text-danger" })
+											</div>
+										</div>
+									</div>
+									<div class="col-md-4 col-md-offset-4" style="text-align: right; padding-right: 30px;">
+										<div class="form-group control-label">
+											<p class="required" style=" font-weight:bold !important;">* Campos obligatorios</p>
+										</div>
+									</div>
+								</div>
+							</div>
+							@if (Session["secc"] != null)
+							{
+								<div class="row">
+									<div class="col-md-10 col-md-offset-1">
+										<div class="alert-success alert alert-dismissible" style="height: 40px !important; padding: 10px 20px;">
+											<a href="#" class="close" style="padding-right: 10px;" data-dismiss="alert" aria-label="close">&times;</a>
+											<span>@Session["secc"]</span>
+										</div>
+									</div>
+								</div>
+								Session["secc"] = null;
+							}
+							<div class="row">
+								<div class="col-md-10 col-md-offset-1">
+									<div class="alert-danger">
+										@Html.ValidationSummary(true, "", new { @class = "text-danger" })
+									</div>
+								</div>
+							</div>
+							<div class="form-group">
+								<div class="row">
+									<div class="col-md-4 col-md-offset-4">
+										<input type="submit" value="Guardar" class="button btn btn-block btn-success" id="register_customer">
+									</div>
+								</div>
+							</div>
+						</div>
+                </div>
+            }
+        </div>
+    </div>
+</div>
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

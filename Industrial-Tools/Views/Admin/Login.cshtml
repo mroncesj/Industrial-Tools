@@ -1,0 +1,67 @@
+﻿@using Industrial_Tools.Models
+@model LoginAdminModel
+@{
+    ViewBag.Title = "Login";
+    Layout = "~/Views/Shared/_Layout_Admin.cshtml";
+}
+
+<br />
+<br />
+
+<div class="row">
+    <div class="col-md-6 col-md-offset-3" id="formLoginAdmin">
+        <h2 class="admin">Inicio de sesión administrador</h2>
+        <section id="loginForm">
+            @using (Html.BeginForm("Login", "Admin", new { ReturnUrl = ViewBag.ReturnUrl }, FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+            {
+                @Html.AntiForgeryToken()
+                <div class="block">
+                    <div class="block-inside">
+                        <div class="row">
+                            <div class="col-md-8 col-md-offset-2">
+                                <div class="form-group">
+                                    @Html.LabelFor(m => m.Email, new { @class = "control-label" })
+                                    <div class="field">
+                                        @Html.TextBoxFor(m => m.Email, new { @class = "text form-control" })
+                                        @Html.ValidationMessageFor(m => m.Email, "", new { @class = "text-danger" })
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-8 col-md-offset-2">
+                                <div class="form-group">
+                                    @Html.LabelFor(m => m.Password, new { @class = "control-label" })
+                                    <div class="field">
+                                        @Html.PasswordFor(m => m.Password, new { @class = "text form-control" })
+                                        @Html.ValidationMessageFor(m => m.Password, "", new { @class = "text-danger" })
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-10 col-md-offset-1">
+                        <div class="alert-danger">
+                            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-4 col-md-offset-4">
+                        <input type="submit" value="Iniciar Sesión" class="button btn btn-block btn-primary" id="submit_login">
+                    </div>
+                </div>
+            }
+        </section>
+    </div>
+</div>
+<br />
+<br />
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
+

@@ -1,0 +1,111 @@
+﻿@using Industrial_Tools.Models
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - Industrial Tools</title>
+    @*@Styles.Render("~/Content/css")
+        @Scripts.Render("~/bundles/modernizr")*@
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Content/Site.css" rel="stylesheet" />
+    <link href="~/Content/font-awesome-4.7.0/css/font-awesome.css" rel="stylesheet" />
+    <link href="~/Content/font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+
+</head>
+<body>
+    <div class="container-ec header">
+        <div class="row vertical-align">
+            <div class="col-md-3 logo">
+                <img src="~/images/logo-tools.png" alt="LOGO" />
+            </div>
+            <div class="col-md-9">
+                <div class="row p-1">
+                    <div class="col-md-3 col-md-offset-9">
+                        <div class="cart text-right">
+                            @{
+                                int noP = 0;
+                                decimal total = 0;
+                                if (Session["carrito"] != null)
+                                {
+                                    List<CarritoModel> carrito = (List<CarritoModel>)Session["carrito"];
+                                    noP = carrito.Sum(item => item.Cantidad);
+                                    total = carrito.Sum(item => item.Cantidad * item.Precio);
+                                    <a href="/Carrito/Carrito" class="btn btn-default">
+                                        <i class="fa fa-shopping-cart"></i> $ @total
+                                    </a>
+                                }
+                                else
+                                {
+                                    <a href="/Carrito/Carrito" class="btn btn-default">
+                                        <i class="fa fa-shopping-cart"></i> $ 0.00
+                                    </a>
+                                }
+                                <span class="cart-size">@noP</span>
+                            }
+                        </div>
+                    </div>
+                </div>
+                <div class="row p-2">
+                    <div class="col-md-12">
+                        <div class="navbar navbar-default">
+                            @*<div class="container">*@
+                            <div class="navbar-collapse collapse">
+                                <ul class="nav navbar-nav">
+                                    <li>@Html.ActionLink("Inicio", "Index", "Home")</li>
+                                    <li>@Html.ActionLink("Productos", "Productos", "Productos")</li>
+                                    <li>@Html.ActionLink("Nosotros", "About", "Home")</li>
+                                    <li>@Html.ActionLink("Contacto", "Contact", "Home")</li>
+                                    @{
+                                        if (Request.IsAuthenticated)
+                                        {
+                                            <li>@Html.ActionLink("Historial de Compras", "HistorialCompras", "Compras")</li>
+                                        }
+                                    }
+                                </ul>
+                                @Html.Partial("_LoginPartial")
+                            </div>
+                            @*</div>*@
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="fondo">
+    </div>
+    <div class="container-ec page-body">
+        @RenderBody()
+    </div>
+    @*<div class="row">
+            <div class="col-md-offset-8 col-md-3">
+                <iframe src="https://api.whatsapp.com/send?phone=527548979" width="100%"></iframe>
+            </div>
+        </div>*@
+    <footer>
+        <hr />
+        <p>&copy; @DateTime.Now.Year - Industrial Tools</p>
+    </footer>
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    <script>
+        let ban = true;
+        $(document).ready(function () {
+            var d = $('.breadcrumbs');
+            if (d !== null) {
+                d[0].scrollIntoView({ block: "start", behavior: "smooth" });
+            }
+            $("#my-input-search").on("keyup", function () {
+                var value = $(this).val().toLowerCase();
+                $("#products-div .row .product-card .product-block .caption .row .p-name p").filter(function () {
+                    $(this).parent().parent().parent().parent().parent().toggle($(this).text().toLowerCase().indexOf(value) > -1)
+                });
+            });
+            
+        });
+    </script>
+    <script src="~/Scripts/functions-chat.js" type="text/javascript"></script>
+    @RenderSection("scripts", required: false)
+</body>
+</html>
