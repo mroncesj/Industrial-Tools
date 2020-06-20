@@ -6,6 +6,7 @@ using System.Web;
 
 namespace Industrial_Tools.Repository
 {
+    //Proceso para el pago por Paypal
     public class PayPalConfig
     {
         public static readonly string clientId;

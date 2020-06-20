@@ -10,6 +10,7 @@ using System.Web.Mvc;
 
 namespace Industrial_Tools.Controllers
 {
+    //Home de la aplicacion
     [Authorize]
     public class HomeController : Controller
     {

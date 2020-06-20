@@ -5,6 +5,7 @@ using System.Web;
 
 namespace Industrial_Tools.Models
 {
+    //Atributos del Carrito de compras
     public class CarritoModel
     {
         public int Id { get; set; }

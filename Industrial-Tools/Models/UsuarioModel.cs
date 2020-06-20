@@ -6,6 +6,7 @@ using System.Web;
 
 namespace Industrial_Tools.Models
 {
+    //Atributos del usuario y sus restricciones en los campos
     public class UsuarioModel
     {
         [Required]

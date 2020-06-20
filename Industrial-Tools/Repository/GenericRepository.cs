@@ -8,6 +8,7 @@ using System.Web;
 
 namespace Industrial_Tools.Repository
 {
+    //Consultas a la base de datos
     public class GenericRepository<Entidad> : IRepository<Entidad> where Entidad : class
     {
         DbSet<Entidad> _dbSet;
